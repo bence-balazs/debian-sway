@@ -56,3 +56,4 @@ grim
 xwayland
 alsa-utils
 gnome-keyring
+stow
