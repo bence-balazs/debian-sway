@@ -57,3 +57,6 @@ xwayland
 alsa-utils
 gnome-keyring
 stow
+pipewire-audio
+copyq
+network-manager
