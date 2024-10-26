@@ -25,7 +25,7 @@ update_upgrade() {
 install_packages() {
   # install neccessary packages
   apt update
-  apt install -y $(cat /root/packages.txt)
+  apt install -y $(cat packages.txt)
 }
 
 
